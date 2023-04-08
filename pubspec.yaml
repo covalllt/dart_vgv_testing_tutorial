@@ -1,0 +1,16 @@
+name: dart_vgv_testing_tutorial
+description: Very Good Ventures Testing Tutorial Dart package
+version: 0.1.0+1
+publish_to: none
+
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+
+dependencies:
+  path: ^1.8.3
+
+dev_dependencies:
+  lints: ^2.0.1
+  mocktail: ^0.3.0
+  test: ^1.19.2
+  very_good_analysis: ^3.1.0
